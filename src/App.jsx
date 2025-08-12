@@ -2,7 +2,7 @@ import './App.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Header from './components/Header';
 import Homepage from './pages/Homepage';
-import Coinpage from './pages/Coinpage';
+import Coinpage from './pages/CoinPage';
 import { makeStyles } from '@mui/styles';
 import Alert from './components/Banner/Alert';
 
